@@ -6,6 +6,7 @@ The objective of this project is to analyze Netflix's movie and TV show data to 
 ## About the Dataset
 **Netflix - TV Shows and Movies**  
 This dataset was created to list all shows available on Netflix streaming and analyze the data to find interesting facts. The data was acquired in July 2022 and contains information available in the United States.
+Source : [Netflix TV Shows and Movies](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv)
 
 ## Content
 The dataset consists of one file used in this project:
