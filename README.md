@@ -42,4 +42,5 @@ The following tasks were performed as part of this analysis:
 - Analysis of the influence of production countries on IMDb scores.
 - Exploration of the relationship between release year trends and genre impact.
 
+![PowerBI](https://github.com/lunalee1802/Netflix_project-/assets/171199873/386d367a-8253-4da2-887f-62eca249a4d3)
 
