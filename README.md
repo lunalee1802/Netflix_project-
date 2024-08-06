@@ -110,7 +110,7 @@ The analysis of Netflix's movie and TV show data reveals several key insights th
 - **Recommendation**: Create and promote content that aligns with the popular genres in each continent. For example:
   - **Africa**: Invest in improving the quality of "crime" and "drama" genres.
   - **Asia**: Focus on producing high-quality "documentation," "family," and "sport" content.
-  - **Europe**: Enhance and promote content with a European focus.
+  - **Europe**: Enhance and promote content that highlights "history" genre.
   - **South America**: Continue to invest in "history," "crime," and "sport" genres to leverage their high IMDb scores.
 
 
