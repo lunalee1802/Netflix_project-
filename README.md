@@ -108,6 +108,7 @@ The analysis of Netflix's movie and TV show data reveals several key insights th
   - **South America**: Continue to invest in "history," "crime," and "sport" genres to leverage their high IMDb scores.
 
 
+![PowerBI](https://github.com/lunalee1802/Netflix_project-/blob/main/Netflix%20final%20video%20luna%20lee.gif?raw=true)
 
 
 
