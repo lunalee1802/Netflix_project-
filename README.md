@@ -63,6 +63,7 @@ The following tasks were performed as part of this analysis:
 
 ![PowerBI](https://github.com/lunalee1802/Netflix_project/blob/main/Netflix%20final%20video%20luna%20lee.gif?raw=true)
 
+
 ## Conclusion
 
 The analysis of Netflix's movie and TV show data reveals several key insights that can guide future content strategies and enhance IMDb scores. Here's a summary of the findings:
