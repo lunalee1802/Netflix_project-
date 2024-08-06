@@ -109,7 +109,7 @@ The analysis of Netflix's movie and TV show data reveals several key insights th
 
 
 
-![PowerBI][(https://github.com/lunalee1802/Netflix_project-/blob/main/Netflix%20final%20video%20luna%20lee.gif)]
+![PowerBI][Netflix final video luna lee.gif]
 
 
 
