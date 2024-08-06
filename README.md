@@ -61,7 +61,7 @@ The following tasks were performed as part of this analysis:
 ### Analysis of IMDb Scores by Continent
 - Grouped countries into continents to identify continental trends and peculiarities in IMDb scores for top genres.
 
-![PowerBI](https://github.com/lunalee1802/Netflix_project/blob/main/Netflix%20final%20video%20luna%20lee.gif?raw=true)
+![PowerBI](https://github.com/lunalee1802/Netflix_project-/blob/main/Netflix%20final%20video%20luna%20lee.gif?raw=true)
 
 
 ## Conclusion
