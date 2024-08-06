@@ -77,12 +77,6 @@ The analysis of Netflix's movie and TV show data reveals several key insights th
 ### Top 3 Genres per Country
 - **Genre Preferences by Country**: The analysis identified the top 3 genres for each country along with their average IMDb scores. This provides valuable insights into regional preferences and can help in tailoring content strategies to suit different markets.
 
-### IMDb Scores by Continent
-- **Africa**: Shows low average IMDb scores around 3.80 for the top genres.
-- **Asia**: Has a moderate average IMDb score, with top genres scoring around 6.04 to 6.30.
-- **Europe**: Shows a higher average IMDb score for its top genre, around 6.20.
-- **South America**: Exhibits high average IMDb scores for top genres, around 7.60 to 7.02.
-
 ## Key Insights and Recommendations
 
 ### Improve Overall Content Quality
