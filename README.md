@@ -61,6 +61,8 @@ The following tasks were performed as part of this analysis:
 ### Analysis of IMDb Scores by Continent
 - Grouped countries into continents to identify continental trends and peculiarities in IMDb scores for top genres.
 
+![PowerBI](https://github.com/lunalee1802/Netflix_project/blob/main/Netflix%20final%20video%20luna%20lee.gif?raw=true)
+
 ## Conclusion
 
 The analysis of Netflix's movie and TV show data reveals several key insights that can guide future content strategies and enhance IMDb scores. Here's a summary of the findings:
@@ -108,7 +110,6 @@ The analysis of Netflix's movie and TV show data reveals several key insights th
   - **South America**: Continue to invest in "history," "crime," and "sport" genres to leverage their high IMDb scores.
 
 
-![PowerBI](https://github.com/lunalee1802/Netflix_project-/blob/main/Netflix%20final%20video%20luna%20lee.gif?raw=true)
 
 
 
