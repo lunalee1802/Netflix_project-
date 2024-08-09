@@ -69,7 +69,7 @@ The following tasks were performed as part of this analysis:
 The analysis of Netflix's movie and TV show data reveals several key insights that can guide future content strategies and enhance IMDb scores. Here's a summary of the findings:
 
 ### Overall IMDb Score
-- **Average IMDb Score**: The average IMDb score for Netflix titles stands at 6.51. This suggests that while there are numerous popular titles, there is potential to improve the quality of content to raise the overall ratings.
+- **Average IMDb Score**: Leverage Viewer Feedback from High-Scoring Years- Analyze viewer feedback and reviews from the top-scoring years (1969, 1985, 1967) to understand what resonated most with audiences. This could include elements like pacing, character development, or thematic depth that were particularly praised.
 
 ### Content Distribution
 - **Diversity in Content**: The dataset includes 5,850 unique titles spanning 19 genres and originating from 109 different countries. This diversity reflects Netflix's extensive and varied content library, catering to a broad audience base worldwide.
