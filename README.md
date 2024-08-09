@@ -95,8 +95,8 @@ The analysis of Netflix's movie and TV show data reveals several key insights th
 - **Recommendation**: Conduct targeted surveys or focus groups to understand viewer preferences and content gaps in regions with low IMDb scores, and use this feedback to improve content quality.
 
 ### Promote High-Scoring Genres
-- **Insight**: Certain genres, such as "history" in Argentina, have high average IMDb scores.
-- **Recommendation**: Promote high-scoring genres more aggressively in both local and international markets to attract new subscribers and retain existing ones.
+- **Insight**: Certain genres, such as "history" and "War", receive the highest IMDb scores
+- **Recommendation**: To achieve higher IMDb scores and meet audience expectations, Netflix should increase its production of content in the "history" and "war" genres. Investing in these genres will likely enhance viewer engagement and satisfaction, leading to improved ratings and a stronger content portfolio.
 
 ### Focus on Genre Trends by Continent
 - **Insight**:
