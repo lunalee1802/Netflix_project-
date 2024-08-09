@@ -69,7 +69,7 @@ The following tasks were performed as part of this analysis:
 The analysis of Netflix's movie and TV show data reveals several key insights that can guide future content strategies and enhance IMDb scores. Here's a summary of the findings:
 
 ### Overall IMDb Score
-- **Average IMDb Score**: Leverage Viewer Feedback from High-Scoring Years- Analyze viewer feedback and reviews from the top-scoring years (1969, 1985, 1967) to understand what resonated most with audiences. This could include elements like pacing, character development, or thematic depth that were particularly praised.
+- **Average IMDb Score**: Analysis of IMDb scores by release year reveals that 1969 had the highest average IMDb score at 8.45, followed by 1985 and 1967. However, there is a slight decline in more recent years, suggesting that newer content may not be resonating as well with audiences or that viewer expectations have changed
 
 ### Content Distribution
 - **Diversity in Content**: The dataset includes 5,850 unique titles spanning 19 genres and originating from 109 different countries. This diversity reflects Netflix's extensive and varied content library, catering to a broad audience base worldwide.
@@ -84,7 +84,7 @@ The analysis of Netflix's movie and TV show data reveals several key insights th
 
 ### Improve Overall Content Quality
 - **Insight**: With an average IMDb score of 6.51, there is room for improvement.
-- **Recommendation**: Focus on raising the overall quality of content by investing in higher production values, compelling storylines, and strong performances.
+- **Recommendation** :Analyze viewer feedback and reviews from the top-scoring years (1969, 1985, 1967) to understand what resonated most with audiences. This could include elements like pacing, character development, or thematic depth that were particularly praised.
 
 ### Leverage Genre Popularity by Region
 - **Insight**: The top genres for each country reveal important regional preferences. For instance, in the UAE, "documentation," "family," and "sport" genres are popular. Argentina shows a strong preference for "history," "crime," and "sport."
