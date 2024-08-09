@@ -75,7 +75,7 @@ The analysis of Netflix's movie and TV show data reveals several key insights th
 - **Diversity in Content**: The dataset includes 5,850 unique titles spanning 19 genres and originating from 109 different countries. This diversity reflects Netflix's extensive and varied content library, catering to a broad audience base worldwide.
 
 ### Trends Over Time
-- **IMDb Scores by Release Year**: Analysis of IMDb scores over the years shows significant fluctuations. There is a noticeable rise in average scores in the early years of Netflix's content offerings, peaking around the mid-2000s. However, there is a slight decline in more recent years, suggesting that newer content may not be resonating as well with audiences or that viewer expectations have changed.
+- **IMDb Scores by Release Year**: Analysis of IMDb scores by release year reveals that 1969 had the highest average IMDb score at 8.45, followed by 1985 and 1967. However, there is a slight decline in more recent years, suggesting that newer content may not be resonating as well with audiences or that viewer expectations have changed
 
 ### Top 3 Genres per Country
 - **Genre Preferences by Country**: The analysis identified the top 3 genres for each country along with their average IMDb scores. This provides valuable insights into regional preferences and can help in tailoring content strategies to suit different markets.
